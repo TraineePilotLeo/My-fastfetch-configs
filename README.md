@@ -1,0 +1,1 @@
+This is my fastfetch! Its a altered one of something i found on the internet, i optimized it for cachyOS but ive put everything together so it should be easy to customise for your specific distro :D Just make sure to change the name from Leo to your name in the config and you should be good!
