@@ -25,7 +25,7 @@
     // Title
     {
       "type": "title",
-      "format": "{#separator}╭───────────── {#title} Leo"
+      "format": "{#separator}╭───────────── {#title} {user-name}"
     },
     // System Information
     {
